@@ -1,0 +1,47 @@
+artifact_path: file:///mnt/c/Users/hasal/Downloads/Data%20Toolkit/air_quality_2/mlruns/631841615450238126/models/m-94aefb9b055d4220aa331b64f6beff71/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-94aefb9b055d4220aa331b64f6beff71
+model_size_bytes: 4564
+model_uuid: m-94aefb9b055d4220aa331b64f6beff71
+prompts: null
+run_id: db1eb58d33294f88b6b1267eb663972e
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "sulphurdioxide_solar_azimuth_angle", "required":
+    true}, {"type": "double", "name": "carbonmonoxide_co_column_number_density", "required":
+    true}, {"type": "double", "name": "carbonmonoxide_sensor_altitude", "required":
+    true}, {"type": "double", "name": "carbonmonoxide_solar_azimuth_angle", "required":
+    true}, {"type": "double", "name": "nitrogendioxide_no2_column_number_density",
+    "required": true}, {"type": "double", "name": "nitrogendioxide_tropospheric_no2_column_number_density",
+    "required": true}, {"type": "double", "name": "nitrogendioxide_no2_slant_column_number_density",
+    "required": true}, {"type": "double", "name": "nitrogendioxide_solar_azimuth_angle",
+    "required": true}, {"type": "double", "name": "formaldehyde_solar_azimuth_angle",
+    "required": true}, {"type": "double", "name": "uvaerosolindex_solar_azimuth_angle",
+    "required": true}, {"type": "double", "name": "ozone_solar_azimuth_angle", "required":
+    true}, {"type": "double", "name": "cloud_surface_albedo", "required": true}, {"type":
+    "double", "name": "cloud_solar_azimuth_angle", "required": true}, {"type": "double",
+    "name": "year", "required": true}, {"type": "double", "name": "location", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-30 22:07:32.863074'

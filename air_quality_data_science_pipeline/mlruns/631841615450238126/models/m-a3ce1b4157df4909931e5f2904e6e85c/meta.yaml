@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/hasal/Downloads/Data%20Toolkit/air_quality_2/mlruns/631841615450238126/models/m-a3ce1b4157df4909931e5f2904e6e85c/artifacts
+creation_timestamp: 1764540537959
+experiment_id: '631841615450238126'
+last_updated_timestamp: 1764540598007
+model_id: m-a3ce1b4157df4909931e5f2904e6e85c
+model_type: null
+name: model
+source_run_id: 980933800a364091b6317cf974b79606
+status: 2
+status_message: null

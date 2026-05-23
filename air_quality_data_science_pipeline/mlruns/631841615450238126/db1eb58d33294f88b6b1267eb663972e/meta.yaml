@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/hasal/Downloads/Data%20Toolkit/air_quality_2/mlruns/631841615450238126/db1eb58d33294f88b6b1267eb663972e/artifacts
+end_time: 1764540486496
+entry_point_name: ''
+experiment_id: '631841615450238126'
+lifecycle_stage: active
+run_id: db1eb58d33294f88b6b1267eb663972e
+run_name: linear_selectkbest_20251130_230612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764540375593
+status: 3
+tags: []
+user_id: hasal

@@ -1,0 +1,23 @@
+[project]
+pythonpath = ["src"]
+name = "nlp-spam"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "nltk",
+    "numpy",
+    "matplotlib",
+    "xgboost>=3.1.2",
+    "lightgbm>=4.6.0",
+    "mlflow>=3.7.0",
+]
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "jupyter>=1.1.1",
+    "pytest>=8.4.1"
+]

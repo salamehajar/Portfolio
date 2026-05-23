@@ -1,0 +1,59 @@
+{
+  "message": "{\"git_context\":{\"author_email\":\"fzamaaa@gmail.com\",\"author_name\":\"Fzam\",\"commit_hash\":\"9d1c484575bcdab5dea164ab9c6f57716fa2ac40\"},\"test_summary\":{\"execution_time\":48.29,\"passed_tests\":3,\"success_rate\":75.0,\"total_tests\":4},\"timestamp\":\"2025-11-30T19:02:27.905269\",\"version\":\"1.0\"}",
+  "message_hash": "HXFyV5ZpyV0Vb3fTnUY+mHeCGSboAjNdYw3tRxKG8PQ=",
+  "test_results": {
+    "execution_metadata": {
+      "timestamp": "2025-11-30T19:02:27.670086",
+      "execution_time_seconds": 48.29,
+      "runner_version": "Enhanced Test Runner v2.0",
+      "environment": {
+        "python_version": "3.11.13 (main, Oct  7 2025, 15:34:32) [Clang 20.1.4 ]",
+        "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+        "working_directory": "/mnt/c/Users/HP PRO/Desktop/9raytiA3/DS TOOLKIT/air-quality-fgh"
+      }
+    },
+    "test_summary": {
+      "total_tests": 4,
+      "passed_tests": 3,
+      "failed_tests": 1,
+      "success_rate": 75.0,
+      "test_modules": [
+        "data_processor",
+        "evaluator",
+        "feature_engineer",
+        "model_trainer"
+      ]
+    },
+    "detailed_results": {
+      "data_processor": true,
+      "evaluator": true,
+      "feature_engineer": true,
+      "model_trainer": false
+    },
+    "module_breakdown": {
+      "data_processor": {
+        "passed": true,
+        "status": "PASS"
+      },
+      "evaluator": {
+        "passed": true,
+        "status": "PASS"
+      },
+      "feature_engineer": {
+        "passed": true,
+        "status": "PASS"
+      },
+      "model_trainer": {
+        "passed": false,
+        "status": "FAIL"
+      }
+    }
+  },
+  "git_info": {
+    "commit_hash": "9d1c484575bcdab5dea164ab9c6f57716fa2ac40",
+    "author_name": "Fzam",
+    "author_email": "fzamaaa@gmail.com"
+  },
+  "timestamp": "2025-11-30T19:02:27.905269",
+  "signature_placeholder": "INSTRUCTOR_SIGNATURE_REQUIRED"
+}

@@ -1,0 +1,48 @@
+{
+  "execution_metadata": {
+    "timestamp": "2025-12-14T20:33:05.634080",
+    "execution_time_seconds": 10.29,
+    "runner_version": "Enhanced Test Runner v2.0",
+    "environment": {
+      "python_version": "3.12.3 (main, Apr 15 2024, 17:48:16) [MSC v.1929 64 bit (AMD64)]",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "working_directory": "C:\\Users\\ajarr\\OneDrive\\Bureau\\DataScience\\UED datascience toolkit\\nlp_spam"
+    }
+  },
+  "test_summary": {
+    "total_tests": 4,
+    "passed_tests": 4,
+    "failed_tests": 0,
+    "success_rate": 100.0,
+    "test_modules": [
+      "data_processor",
+      "evaluator",
+      "feature_engineer",
+      "model_trainer"
+    ]
+  },
+  "detailed_results": {
+    "data_processor": true,
+    "evaluator": true,
+    "feature_engineer": true,
+    "model_trainer": true
+  },
+  "module_breakdown": {
+    "data_processor": {
+      "passed": true,
+      "status": "PASS"
+    },
+    "evaluator": {
+      "passed": true,
+      "status": "PASS"
+    },
+    "feature_engineer": {
+      "passed": true,
+      "status": "PASS"
+    },
+    "model_trainer": {
+      "passed": true,
+      "status": "PASS"
+    }
+  }
+}

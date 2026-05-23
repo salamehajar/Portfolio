@@ -1,0 +1,54 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "sulphurdioxide_solar_azimuth_angle",
+      "carbonmonoxide_co_column_number_density",
+      "carbonmonoxide_solar_azimuth_angle",
+      "nitrogendioxide_no2_column_number_density",
+      "nitrogendioxide_tropospheric_no2_column_number_density",
+      "nitrogendioxide_no2_slant_column_number_density",
+      "formaldehyde_solar_azimuth_angle",
+      "uvaerosolindex_solar_azimuth_angle",
+      "ozone_solar_azimuth_angle",
+      "location"
+    ],
+    "data": [
+      [
+        -122.38612365722658,
+        0.0407805593847636,
+        -122.40248387266077,
+        0.0001368681987514,
+        0.0001021952848532,
+        0.0001851387351052,
+        -128.11155700683594,
+        -123.52379608154298,
+        -123.52379608154298,
+        99.0
+      ],
+      [
+        -135.8617706298828,
+        0.0454752769339527,
+        -143.37057538316276,
+        0.000134807327413,
+        0.0001013256623991,
+        0.0001785734930308,
+        -143.48016357421875,
+        -143.48016357421875,
+        -143.48016357421875,
+        99.0
+      ],
+      [
+        -143.40728759765625,
+        0.0457841230102965,
+        -143.3618409732816,
+        0.000134807327413,
+        0.0001013256623991,
+        0.0001785734930308,
+        -143.48016357421875,
+        -121.30712127685548,
+        -121.30712127685548,
+        99.0
+      ]
+    ]
+  }
+}

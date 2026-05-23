@@ -1,0 +1,7 @@
+254	2025/04/30 15:04:54	10.129.37.25	200	20	9111	"GET /uv2582fip2582inf210/ HTTP/1.1"
+254	2025/04/30 15:18:21	10.129.37.25	200	4	6580	"GET /uv2582fip2582inf210/technical_environment_home.html HTTP/1.1"
+254	2025/04/30 15:18:21	10.129.37.25	200	3	76404	"GET /uv2582fip2582inf210/images/prerequisite_techenv/prerequisite_techenv_2025.jpg HTTP/1.1"
+254	2025/04/30 15:18:21	10.129.37.25	200	3	111346	"GET /uv2582fip2582inf210/images/technical_environment/spring_modules.png HTTP/1.1"
+254	2025/04/30 15:18:21	10.129.37.25	200	1	52972	"GET /uv2582fip2582inf210/images/technical_environment/service_db.png HTTP/1.1"
+254	2025/04/30 15:20:06	10.129.37.25	200	13	4902	"GET /uv2582fip2582inf210/web_architecture_home.html HTTP/1.1"
+254	2025/04/30 15:20:06	10.129.37.25	200	7	152232	"GET /uv2582fip2582inf210/images/prerequisite_archiweb/prerequisite_archiweb_2025.jpg HTTP/1.1"
