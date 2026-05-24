@@ -1,7 +1,0 @@
-2411	2024/04/26 15:58:02	146.227.239.34	200	5	10156	"GET /uv248fip248inf210/project_part1.html HTTP/1.1"
-2411	2024/04/26 15:58:02	146.227.239.34	200	4	37547	"GET /uv248fip248inf210/images/project/project_architecture.png HTTP/1.1"
-2411	2024/04/26 15:58:02	146.227.239.34	200	3	58641	"GET /uv248fip248inf210/images/project/project_conceptual.png HTTP/1.1"
-2411	2024/04/26 15:58:02	146.227.239.34	404	0	493	"GET /uv248fip248inf210/images/project/005.png HTTP/1.1"
-2411	2024/04/26 15:58:02	146.227.239.34	200	5	184578	"GET /uv248fip248inf210/images/project/querytool.png HTTP/1.1"
-2411	2024/04/26 15:58:14	146.227.239.34	200	7	63019	"GET /uv248fip248inf210/resources/project/Recette_application.docx HTTP/1.1"
-2411	2024/04/26 15:58:17	146.227.239.34	200	4	98793	"GET /uv248fip248inf210/resources/project/Recette_application.pdf HTTP/1.1"
